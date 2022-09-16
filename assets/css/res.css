@@ -1,0 +1,68 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body .conteneur img{
+    display: block;
+   margin: 0px auto;
+}
+body{
+    background-color: #3E85ED;
+    margin: 0px auto;
+    width: 35%;
+}
+body h1{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+body .conteneur .action .mat{
+    border: none;
+    padding: 7px;
+    border-radius: 3px;
+    width: 100%;
+    outline-color: aquamarine;
+}
+body .conteneur .action .mdp {
+    border: none;
+    padding: 7px;
+    border-radius: 3px;
+    margin-top: 10px;
+    width: 100%;
+    outline-color: aquamarine;
+}
+body .conteneur .action .liste{
+    border: none;
+    padding: 7px;
+    border-radius: 3px;
+    margin-top: 10px;
+    width: 100%;
+    outline-color: aquamarine;
+}
+body .conteneur .action .btn{
+    padding: 8px;
+    color: aliceblue;
+    background-color: rgb(75, 223, 75);
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+}
+body .conteneur .action .btn:hover{
+    background-color: rgb(66, 199, 236);
+    cursor: pointer;
+}
+
+body .conteneur{
+    margin-top: 30%;
+    background-color: rgb(15, 15, 177);
+    border-radius: 8px;
+    padding: 20px;
+}
+body .conteneur .action .liste option{
+    background-color:rgb(66, 199, 236);;
+    color: aliceblue;
+}
