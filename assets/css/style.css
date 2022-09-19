@@ -337,11 +337,10 @@ h4{
     position: fixed;
     bottom: 20px;
     width: 100%;
-    opacity: 30%;
 }
-
-.nav_icone:hover{
-    opacity: 100%;
+.nav_icone img:hover
+{
+    opacity: 70%;
 }
 .nav_icone img
 {
